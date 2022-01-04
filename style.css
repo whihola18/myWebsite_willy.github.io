@@ -45,3 +45,8 @@ section#product .card {
 footer a i {
 	margin-right: 15px;
 }
+
+.btn-kopi {
+	width: 100%;
+	text-align: center;
+}
